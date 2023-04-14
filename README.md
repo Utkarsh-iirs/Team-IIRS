@@ -1,6 +1,7 @@
 # Team-IIRS
 Team-IIRS's Machine learning project's repository
 This Github repository contains files and results that we got at different stages of the project:
+
 1.InitialData_TweetID is the merged version of csv files, downloaded from IEEE dataport. It contains field: tweet ids which was used for the hydration and Sentiment scores which were ignored in this project.This file has 505193 entries. 
 
 2.tweepy_hydration.ipynb file contains the codes used to hydrate the tweet ids in the InitialData_TweetID. 
