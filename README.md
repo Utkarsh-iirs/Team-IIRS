@@ -22,4 +22,4 @@ This Github repository contains files and results that we got at different stage
 
 10.Dashboard.pbix file is the dasboard file for the visualisation of findings of this project.
 
-11.Final report 
+11.Final report: Twitter data handling and sentiment analysis using big data tools and frameworks - Group 1 Final.docx
