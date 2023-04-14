@@ -18,7 +18,7 @@ This Github repository contains files and results that we got at different stage
 
 8. Positive-words.txt and Negative-words.txt files contains a collection of positive and negative words respectively, that were used in Lexicon based Labelling approach
 
-9. Lexical.ipynb has codes to perform Lexicon based Labelling approach.
+9. Lexicon.ipynb has codes to perform Lexicon based Labelling approach.
 
 10.Dashboard.pbix file is the dasboard file for the visualisation of findings of this project.
 
